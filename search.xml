@@ -4,17 +4,19 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2022/03/25/test/"/>
-      <url>/2022/03/25/test/</url>
+      <title>博客测试</title>
+      <link href="/2022/03/25/newtest/"/>
+      <url>/2022/03/25/newtest/</url>
       
-        <content type="html"><![CDATA[<p>下面是正文</p>]]></content>
+        <content type="html"><![CDATA[<p>This is a new kind of Blog based on Github.<br>Time now is 6:07.<br>Hello World!</p>]]></content>
       
       
       
         <tags>
             
-            <tag> 测试 </tag>
+            <tag> Test </tag>
+            
+            <tag> New </tag>
             
         </tags>
       
